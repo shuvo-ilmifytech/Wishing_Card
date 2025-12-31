@@ -1,0 +1,7 @@
+{
+  "name": "iLMIFYTECH 2026 New Year Card",
+  "description": "Personalized 2026 New Year wish cards for iLMIFYTECH AGENCY employees with photo upload and social media optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
